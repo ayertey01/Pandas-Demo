@@ -14,5 +14,5 @@ schema_df
 #the use of head and tail can be incorporated in  the code 
 schema_df.tail(10)
 #showing last 10 of the schema
-shema_df.head()
+shema_df.head(10)
 #showing first 5 of the schema
